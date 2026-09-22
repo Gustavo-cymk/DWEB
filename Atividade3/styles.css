@@ -47,8 +47,7 @@ body {
     font-weight: 500;
 }
 
-.nav-link:hover,
-.nav-link.active {
+.nav-link:hover{
     color: #ffffff;
     border-bottom: 2px solid #3b82f6;
 }
